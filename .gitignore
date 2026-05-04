@@ -1,3 +1,4 @@
 .env
 __pycache__/
 *.pycdata/soil_data.csv 
+data/soil_data.csv 

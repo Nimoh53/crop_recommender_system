@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 # ─────────────────────────────────────────────
 df_crop    = pd.read_csv("data/crops_data.csv")
 df_weather = pd.read_csv("data/Meru weather.csv")
-df_soil    = pd.read_csv("data/soil_data.csv")
+df_soil    = pd.read_csv("data/sample_soil_data.csv")
 
 
 # ─────────────────────────────────────────────
